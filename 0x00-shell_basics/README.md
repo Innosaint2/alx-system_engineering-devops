@@ -5,3 +5,4 @@ Task9. Bye bye My first directory
 Task10. Back to the future
 Task11. List
 Task12. File type
+Task13. We are symbols, and we inhabit symbols
