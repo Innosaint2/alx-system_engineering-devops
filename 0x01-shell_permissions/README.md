@@ -8,3 +8,4 @@ Task4 Empty!
  create mode 100755 0x01-shell_permissions/4-empty
 Task5. Execute
 Task6 Multiple permissions
+Task7. Everybody!
