@@ -11,3 +11,4 @@ Task6 Multiple permissions
 Task7. Everybody!
 Task8. James Bond
 Task9. John Doe
+Task10.  Look in the mirror
