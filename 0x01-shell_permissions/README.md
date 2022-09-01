@@ -7,3 +7,4 @@ Task4 Empty!
  2 files changed, 3 insertions(+)
  create mode 100755 0x01-shell_permissions/4-empty
 Task5. Execute
+Task6 Multiple permissions
