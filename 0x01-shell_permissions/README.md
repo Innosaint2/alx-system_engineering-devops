@@ -16,3 +16,4 @@ Task11. Directories
 Task12. More directories
 Task13. Change group
 Task14. Owner and group
+Task101. Symbolic links
